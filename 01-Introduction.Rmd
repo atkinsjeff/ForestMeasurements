@@ -1,4 +1,4 @@
-# On the Origin of Structure {#intro}
+# On the Origin of Structure 
 
 The use of the measurement of FSD was critical to the field of forestry’s maturation and provide some of the earliest known uses of FSD in history. The first organized attempts by Europeans to measure or survey forests was in the 1500s in what is now modern day Austria and Germany. By the 1700s, advancing measurement theory and practice led to forest yield tables, inventory protocols, and management plans (Assmann, 1970; Burkhart et al. 2018).  In Japan,   long-standing forest management protocols coupled with advances in measurements, instrumentation, and inventory techniques in the 1700s, resulted in scientific coalescence (Iwamoto, 2002). By the 1900s, forestry had morphed into a matured scientific discipline  because of advances in measurement, including FSD measurements (Chapman, 1924).
 
@@ -15,5 +15,5 @@ Catalyzed by the availability of aerial photography in the 1930s and 1940s,, lan
 
 The 1990s and 2000s brought several important advancements including sensors on uncrewed aerial vehiclesAV) and terrestrial laser scanners, as well as rapid advances in satellite capabilities, including MODIS, Hyperion, and several generations of Landsat.  Global navigation satellite systems (GNSS) and microcomputing are two key advances-- that have advanced FSD measurement and subsequently ecology as a whole, more than perhaps any other technology in our history. The ability to measure spatial position with high accuracy and process large data and complex programs locally, cannot be underestimated in importance. Continued progress in computational sophistication (artificial intelligence, in particular), cyberinfrastructure, optic systems, electromagnetic (EM) sensors, and GNSS, have enhanced the data processing efficiency many times over, creating research and opportunities that were previously impossible (Tang and Shao 2015). 
 
-You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).
+You can label chapter and section titles using  after them, e.g., we can reference Chapter . If you do not manually label them, there will be automatic labels anyway, e.g., Chapter
 
