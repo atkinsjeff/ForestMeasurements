@@ -2,14 +2,15 @@
 title: "An Encyclopedia of Forest Measurements"
 author: "Jeff W. Atkins"
 date: "2021-05-08"
-site: bookdown::bookdown_site
+output: pdf_document
 documentclass: book
-bibliography: [book.bib]
+bibliography: book.bib
 biblio-style: apalike
-link-citations: true
+link-citations: yes
 github-repo: atkinsjeff/ForestMeasurements
-url: 'https://atkinsjeff.github.io/ForestMeasurements/'
-description: "A guide to measuring forest structural diversity"
+url: https://atkinsjeff.github.io/ForestMeasurements/
+description: A guide to measuring forest structural diversity
+site: bookdown::bookdown_site
 ---
 
 # Preface {-}
