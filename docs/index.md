@@ -6,10 +6,10 @@ site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
 biblio-style: apalike
-link-citations: yes
+link-citations: true
 github-repo: atkinsjeff/ForestMeasurements
-url: 'http\://seankross.com/bookdown-start/'
-description: "Everything you need (and nothing more) to start a bookdown book."
+url: 'https://atkinsjeff.github.io/ForestMeasurements/'
+description: "A guide to measuring forest structural diversity"
 ---
 
 # Preface {-}

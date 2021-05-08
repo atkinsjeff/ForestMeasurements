@@ -1,3 +1,13 @@
 on-the-origin-of-structure
-diving-in
-technical-details
+classifying-structural-diversity
+stand-structure
+basal-area-ba
+diameter-at-breast-height-dbh
+dbh-class-diversity-h
+gini-coefficent
+height
+cover-and-openness
+canopy-heterogeneity-and-complexity
+vegetation-area-and-density
+vegetation-area-and-density-1
+traits

@@ -1,6 +1,6 @@
 book_filename: "forest_measurements"
 chapter_name: "Chapter "
-repo: https://github.com/seankross/bookdown-start
+repo: https://github.com/atkinsjeff/ForestMEasurements
 output_dir: docs
 #rmd_files: ["index.Rmd", "01-Introduction.Rmd", "02-Diving-In.Rmd"]
 clean: [packages.bib, bookdown.bbl]
