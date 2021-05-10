@@ -1,7 +1,7 @@
 --- 
 title: "An Encyclopedia of Forest Measurements"
 author: "Jeff W. Atkins"
-date: "2021-05-08"
+date: "2021-05-10"
 output: pdf_document
 documentclass: book
 bibliography: book.bib

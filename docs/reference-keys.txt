@@ -6,8 +6,15 @@ diameter-at-breast-height-dbh
 dbh-class-diversity-h
 gini-coefficent
 height
+canopy-relief-ratio-crr
+mean-outer-canopy-height-moch
+mean-height-h
+maximum-canopy-height-h_max
+percentile-heights
+p10
+p50
 cover-and-openness
 canopy-heterogeneity-and-complexity
 vegetation-area-and-density
-vegetation-area-and-density-1
+volume
 traits

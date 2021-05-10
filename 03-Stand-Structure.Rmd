@@ -10,7 +10,7 @@ Basal area per individual tree:  $BA = \Pi \times (DBH/2)^2$
 
 
 Also see:  
-[Diameter-at-breash height (DBH)](## Diameter-at-breast height (DBH))  
+[Diameter-at-breash height ($DBH$)](## Diameter-at-breast height ($DBH$))  
 
 
 ## Diameter-at-breast height ($DBH$)
