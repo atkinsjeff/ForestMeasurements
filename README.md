@@ -1,5 +1,10 @@
 The Encyclopedia of Forest Measurement
-Jeff W. Atkins, Chris R. Hakkenberg, Emily Francis ....
+
+Authors:  
+
+Jeff W. Atkins, USFS Southern Research Station 
+Chris R. Hakkenberg, Northern Arizona University
+Emily Francis, University of Texas
 
 
 The Encyclopedia of Forest Measurement is complied using [bookdown](https://bookdown.org/yihui/bookdown/) book. You can find the
