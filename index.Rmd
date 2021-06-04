@@ -1,6 +1,6 @@
 --- 
-title: "An Encyclopedia of Forest Measurements"
-author: "Jeff W. Atkins"
+title: "A Handbook of Forest Measurement"
+author: "Jeff W. Atkins, Emily Francis, Chris R. Hakkenberg"
 date: "`r Sys.Date()`"
 output:
   html_document:
@@ -17,4 +17,9 @@ site: bookdown::bookdown_site
 
 # Preface {-}
 
-This is the very first part of the book.
+
+```{r fig.align='center', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html')}
+knitr::include_graphics('images/cover_draft.png', dpi = NA)
+```
+
+This book originated from a collaboration formed during the Forest Structural Diversity Workship in 2020. 
